@@ -1,0 +1,36 @@
+/* GLOBAL STYLES */
+body{
+    background-image: url("https://export-download.canva.com/DAENrxxCiPg/50/0/0001-13363484837.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20201120%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201120T052211Z&X-Amz-Expires=13513&X-Amz-Signature=9a1bce954fb8eedf0be5f63248d73bb4a66fbbeaceb2a64600e4d8f1487633e4&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Video%2520Image.png&response-expires=Fri%2C%2020%20Nov%202020%2009%3A07%3A24%20GMT");
+}
+
+.video{
+    margin-top: 120px;
+    margin-left: 150px;
+}
+
+.h2{
+    color: whitesmoke;
+    margin-top: -300px;
+    margin-left: 850px;
+}
+
+h1{
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-left: 530px;
+}
+
+
+a{
+  text-decoration: none;
+  color: white;
+  background-color: rgb(117, 50, 205);
+  border: 2px solid rgb(245, 222, 222);
+  padding: 30px 20px;
+  position:absolute;
+  margin-top: 40px;
+  margin-left: 1450px;
+  }
+
+
